@@ -8,7 +8,7 @@
   {
     "player": "destroooyer",
     "reason": "cheating",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
@@ -60,12 +60,6 @@
     "timeTagged": 1745043715522
   },
   {
-    "player": "dahssnn",
-    "reason": "sniping",
-    "display": "&e&lW",
-    "timeTagged": 1745043715522
-  },
-  {
     "player": "xulode",
     "reason": "fakelag",
     "display": "&e&lW",
@@ -74,49 +68,43 @@
   {
     "player": "owo_nule3",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "clyz_sb_school",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "iliba",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
-    "timeTagged": 1745043715522
-  },
-  {
-    "player": "iliba",
-    "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "2lagxpredator",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "ddsdsdddfffsfsff",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "buyraven",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "owo_rvlpp",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
@@ -128,43 +116,43 @@
   {
     "player": "snugglly",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "qayna",
     "reason": "Cheating: Flagged Autoblock",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "rockthree263614",
     "reason": "Cheating: Flagged Tower",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "akumakazu",
     "reason": "Cheating: Flagged Tower",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "nazsky",
     "reason": "Cheating: Flagged Scaffold",
-    "display": "&c&lC",
-    "timeTagged": 1745043715522
-  },
-  {
-    "player": "nazsky",
-    "reason": "Cheating: Flagged Scaffold",
-    "display": "&c&lC",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   },
   {
     "player": "qvuwi",
     "reason": "Cheating: Flagged Scaffold",
-    "display": "&c&lC",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "suspect",
+    "reason": "Cheating: Flagged Scaffold",
+    "display": "&e&lW",
     "timeTagged": 1745043715522
   }
 ]
