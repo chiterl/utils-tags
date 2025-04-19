@@ -1,1 +1,170 @@
-[{"player":"sheepfall","reason":"esp"},{"player":"destroooyer","reason":"cheating"},{"player":"dxltonico","reason":"autoblock"},{"player":"jude330","reason":"esp"},{"player":"unsortiertes","reason":"esp"},{"player":"dotless","reason":"blink/7 member"}, {"player":"mydearmoments","reason":"blink/7 member"}]
+[
+  {
+    "player": "sheepfall",
+    "reason": "esp",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "destroooyer",
+    "reason": "cheating",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "dxltonico",
+    "reason": "autoblock",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "jude330",
+    "reason": "esp",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "unsortiertes",
+    "reason": "esp",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "dotless",
+    "reason": "blink/7 member",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "mydearmoments",
+    "reason": "blink/7 member",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "kman115",
+    "reason": "autoarmor",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "kow_msmc_e4o",
+    "reason": "hopping",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "livestring63584",
+    "reason": "hopping'",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "dahssnn",
+    "reason": "sniping",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "xulode",
+    "reason": "fakelag",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "owo_nule3",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "clyz_sb_school",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "iliba",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "iliba",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "2lagxpredator",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "ddsdsdddfffsfsff",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "buyraven",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "owo_rvlpp",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "bettr0ff",
+    "reason": "legit scaff in solos",
+    "display": "&e&lW",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "snugglly",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "qayna",
+    "reason": "Cheating: Flagged Autoblock",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "rockthree263614",
+    "reason": "Cheating: Flagged Tower",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "akumakazu",
+    "reason": "Cheating: Flagged Tower",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "nazsky",
+    "reason": "Cheating: Flagged Scaffold",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "nazsky",
+    "reason": "Cheating: Flagged Scaffold",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  },
+  {
+    "player": "qvuwi",
+    "reason": "Cheating: Flagged Scaffold",
+    "display": "&c&lC",
+    "timeTagged": 1745043715522
+  }
+]
